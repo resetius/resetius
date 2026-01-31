@@ -5,7 +5,7 @@ I build **high-performance systems**: distributed storage/query engines, low-lat
 - **PhD** in Computational Mathematics
 - Previously at **Yandex**: worked on multiple large-scale projects, including **[YTsaurus](https://github.com/ytsaurus/ytsaurus)** and **[YDB](https://github.com/ydb-platform/ydb)**
 - Since **early 2020**: focused on **YDB SQL subsystem**, working on a **distributed SQL engine** (execution/runtime & related infrastructure)
-- Currently: **HFT fund (NDA)**
+- Currently: **HFT fund**
 
 ---
 
@@ -57,4 +57,5 @@ I build **high-performance systems**: distributed storage/query engines, low-lat
 
 ## Contacts
 
-- GitHub: https://github.com/resetius
+- Linkedin: https://www.linkedin.com/in/alexey-ozeritskiy/
+- Telegram: https://t.me/aozeritsky
