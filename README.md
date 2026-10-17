@@ -25,15 +25,15 @@ I build **high-performance systems**: distributed storage/query engines, low-lat
 ## Featured projects
 
 ### Compilers / Languages
-- **[qumir](https://github.com/resetius/qumir)**  
-  ![Stars](https://img.shields.io/github/stars/resetius/qumir?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/resetius/qumir)
-  ![Language](https://img.shields.io/github/languages/top/resetius/qumir)
+- **[qumir](https://github.com/QumirLabs/qumir)**  
+  ![Stars](https://img.shields.io/github/stars/resetius/QumirLabs?style=social)
+  ![Last commit](https://img.shields.io/github/last-commit/QumirLabs/qumir)
+  ![Language](https://img.shields.io/github/languages/top/QumirLabs/qumir)
 
-- **[qumirdb](https://github.com/resetius/qumirdb)**  
-  ![Stars](https://img.shields.io/github/stars/resetius/qumirdb?style=social)
-  ![Last commit](https://img.shields.io/github/last-commit/resetius/qumirdb)
-  ![Language](https://img.shields.io/github/languages/top/resetius/qumirdb)
+- **[qumirdb](https://github.com/QumirLabs/qumirdb)**  
+  ![Stars](https://img.shields.io/github/stars/QumirLabs/qumirdb?style=social)
+  ![Last commit](https://img.shields.io/github/last-commit/QumirLabs/qumirdb)
+  ![Language](https://img.shields.io/github/languages/top/QumirLabs/qumirdb)
 
 ### Systems / Networking
 - **[coroio](https://github.com/resetius/coroio)**  
