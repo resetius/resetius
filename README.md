@@ -26,7 +26,7 @@ I build **high-performance systems**: distributed storage/query engines, low-lat
 
 ### Compilers / Languages
 - **[qumir](https://github.com/QumirLabs/qumir)**  
-  ![Stars](https://img.shields.io/github/stars/resetius/QumirLabs?style=social)
+  ![Stars](https://img.shields.io/github/stars/QumirLabs/qumir?style=social)
   ![Last commit](https://img.shields.io/github/last-commit/QumirLabs/qumir)
   ![Language](https://img.shields.io/github/languages/top/QumirLabs/qumir)
 
